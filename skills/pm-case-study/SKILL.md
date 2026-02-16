@@ -1,6 +1,6 @@
 ---
 name: pm-case-study
-description: "Generate end-to-end PM case studies from real AI product launches, pivots, and decisions. Analyzes what happened, why, what the PM likely decided, trade-offs made, and lessons learned. Great for building product judgment and interview prep."
+description: "Generate end-to-end PM case studies from real AI product launches, pivots, and decisions. Analyzes what happened, why, what the PM likely decided, trade-offs made, and lessons learned."
 argument-hint: "[product launch, feature, or company decision]"
 ---
 
@@ -56,11 +56,11 @@ Generate a detailed PM case study from a real AI product launch, pivot, or strat
 - **Strategic outcomes**: Market position, competitive response, ecosystem effects
 - **Unexpected outcomes**: Things that happened that nobody predicted
 
-### Section 8: Lessons for PM Interviews
-Extract 3-5 lessons that can be applied in interviews:
+### Section 8: Key Takeaways
+Extract 3-5 lessons for product managers:
 - **Lesson**: Clear statement of the principle
-- **Application**: How to use this in a product sense/strategy answer
-- **Example prompt**: A practice interview question where this lesson applies
+- **Application**: How to apply this in product sense/strategy decisions
+- **Example question**: A product question where this lesson is directly relevant
 
 ## Case Study Categories
 
@@ -100,9 +100,9 @@ This skill requires real data:
 3. **Date awareness** — Note what was known at the time of the decision vs. what we know now.
 4. **Display** the complete case study.
 
-## Strong-Hire Signals (Why This Helps in Interviews)
+## What Good Looks Like
 - Demonstrates deep knowledge of the AI product landscape
 - Shows you can analyze real product decisions with nuance
-- Provides concrete examples and data points for your answers
+- Provides concrete examples and data points for product discussions
 - Builds pattern recognition across multiple product launches
 - Reveals your product judgment when you evaluate decisions

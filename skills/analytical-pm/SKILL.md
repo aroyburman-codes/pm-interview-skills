@@ -1,12 +1,12 @@
 ---
 name: analytical-pm
-description: "Generate strong-hire PM analytical/metrics interview answers for AI product roles. Structured analytical + MECI frameworks. Use for: metrics, goal-setting, root-cause analysis, trade-offs, A/B tests."
+description: "Structured analytical and metrics framework for AI product roles. Covers: metrics, goal-setting, root-cause analysis, trade-offs, A/B tests."
 argument-hint: "[interview question]"
 ---
 
 # Analytical PM Skill
 
-Generate strong-hire caliber answers for PM analytical, metrics, root-cause, and trade-off interview questions targeting AI product roles.
+Apply a structured framework to PM analytical, metrics, root-cause, and trade-off questions targeting AI product roles.
 
 ## When to Use
 - User asks "What metrics would you use for X"
@@ -159,7 +159,7 @@ Feature X vs. Feature Y competing for the same real estate.
 - **Quality metrics**: Hallucination rate, factual accuracy, instruction-following score
 
 ## Output Format
-Structure as a mock interview answer. Be rigorous and quantitative where possible. For metrics questions, draw the metric tree. For root-cause, walk through the diagnostic systematically. Aim for ~2000 words for a 25-minute interview segment.
+Structure as a rigorous analytical walkthrough. Be quantitative where possible. For metrics questions, draw the metric tree. For root-cause, walk through the diagnostic systematically. Aim for ~2000 words.
 
 ## Research-First Workflow
 Before generating the answer:
@@ -167,7 +167,7 @@ Before generating the answer:
 2. **Cite sources** — Include `[linked source](url)` inline for data points and benchmarks.
 3. **Display** the complete structured answer.
 
-## Strong-Hire Signals to Hit
+## What Good Looks Like
 - Starts with clarifying the metric/situation (don't assume)
 - NSM captures core user value (not vanity metrics)
 - Metric tree is decomposable and actionable

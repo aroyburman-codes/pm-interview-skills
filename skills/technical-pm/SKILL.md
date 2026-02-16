@@ -1,12 +1,12 @@
 ---
 name: technical-pm
-description: "Generate strong-hire technical PM interview answers for AI product roles. Uses AI PM Technical Method: Constraints, Personas, System Design, Trade-offs, API/DX, Metrics. Use for: RLHF, evals, RAG, LLM deployment, system design, API design."
+description: "Structured technical PM framework for AI product roles. Covers: RLHF, evals, RAG, LLM deployment, system design, API design."
 argument-hint: "[interview question]"
 ---
 
 # Technical PM Skill
 
-Generate strong-hire caliber answers for technical PM interview questions targeting AI product roles.
+Apply a structured framework to technical PM questions targeting AI product roles.
 
 ## When to Use
 - User asks about RLHF, fine-tuning, evals, inference, model architecture
@@ -154,7 +154,7 @@ For platform/API products, design the interface:
 - Cross-modal retrieval
 
 ## Output Format
-Structure as a mock interview answer. Be technical but accessible — show you can translate between researchers, engineers, and product. Whiteboard-style system diagrams described in text. Aim for ~2500 words for a 35-minute interview.
+Structure as a technical walkthrough. Be technical but accessible — translate between researchers, engineers, and product. Whiteboard-style system diagrams described in text. Aim for ~2500 words.
 
 ## Research-First Workflow
 Before generating the answer:
@@ -162,7 +162,7 @@ Before generating the answer:
 2. **Cite sources** — Include `[linked source](url)` inline for technical claims and architecture decisions.
 3. **Display** the complete structured answer.
 
-## Strong-Hire Signals to Hit
+## What Good Looks Like
 - Starts with technical scoping questions (constraints, scale, data)
 - System design is coherent and production-aware (not just academic)
 - Understands the Latency-Cost-Quality triangle deeply

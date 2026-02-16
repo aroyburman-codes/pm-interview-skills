@@ -1,12 +1,12 @@
 ---
 name: product-sense
-description: "Generate strong-hire PM product sense/design interview answers for AI product roles. Structured framework: Clarify, Why Build, Users, Pain Points, Solutions, Metrics. Use for: design a product, improve X, productize a capability."
+description: "Structured product sense/design framework for AI product roles. Covers: design a product, improve X, productize a capability."
 argument-hint: "[interview question]"
 ---
 
 # Product Sense Skill
 
-Generate strong-hire caliber answers for PM product sense / product design interview questions targeting AI product roles.
+Apply a structured framework to PM product sense / product design questions targeting AI product roles.
 
 ## When to Use
 - User asks a "Design a product for X" question
@@ -97,15 +97,15 @@ When the question is about an AI company product, layer in:
 - **Taste**: OpenAI values ambitious, creative, 10x thinking. Anthropic values careful, principled, safety-first thinking. DeepMind values scientific rigor.
 
 ## Output Format
-Structure the response as a mock interview answer - conversational but structured. Use the section headers. For a 35-minute interview, aim for ~2500 words total. Flag where the candidate would pause for interviewer input.
+Structure the response as a conversational walkthrough — structured but natural. Use the section headers. Aim for ~2500 words total. Flag where you'd pause for discussion or input.
 
 ## Research-First Workflow
 Before generating the answer:
-1. **Research** — Use web search to find latest thinking from AI leaders (Altman, Amodei, Hassabis), PM thought leaders, market data, competitor intel. Do 5-10 searches.
+1. **Research** — Use web search to find latest thinking from AI company blogs, PM thought leaders, market data, competitor intel. Do 5-10 searches.
 2. **Cite sources** — Include `[linked source](url)` inline for major claims, data points, and trends.
 3. **Display** the complete structured answer.
 
-## Strong-Hire Signals to Hit
+## What Good Looks Like
 - Starts with clarifying questions (CRITICAL)
 - Shows strategic thinking before jumping to solutions
 - User empathy is specific and grounded (not generic)

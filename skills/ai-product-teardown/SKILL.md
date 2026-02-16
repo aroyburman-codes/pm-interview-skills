@@ -1,6 +1,6 @@
 ---
 name: ai-product-teardown
-description: "Structured teardown of AI products (ChatGPT, Claude, Gemini, Perplexity, Copilot, etc.). Analyzes product decisions, UX patterns, technical architecture, business model, and competitive positioning. Great for interview prep and building product intuition."
+description: "Structured teardown of AI products (ChatGPT, Claude, Gemini, Perplexity, Copilot, etc.). Analyzes product decisions, UX patterns, technical architecture, business model, and competitive positioning."
 argument-hint: "[product name or feature]"
 ---
 
@@ -11,7 +11,7 @@ Perform a structured, opinionated teardown of any AI product — analyzing the p
 ## When to Use
 - User asks "Tear down [AI product]" or "Analyze [AI product]"
 - User wants to understand the product thinking behind an AI feature
-- User is prepping for an interview and wants to build product intuition
+- User wants to build product intuition about AI products
 - User says `/ai-product-teardown` followed by a product name
 - Great for: ChatGPT, Claude, Gemini, Perplexity, Copilot, Midjourney, Cursor, v0, NotebookLM, etc.
 
@@ -80,9 +80,9 @@ Write as an opinionated product review — structured but with a clear point of 
 2. **Cite sources** — Include `[linked source](url)` inline for factual claims.
 3. **Display** the complete teardown.
 
-## Strong-Hire Signals (Why This Helps in Interviews)
+## What Good Looks Like
 - Shows you've done homework on the product landscape
 - Demonstrates structured product thinking on real products
 - Reveals your product taste and judgment
-- Provides concrete examples to reference in interviews
+- Provides concrete examples to reference in product discussions
 - Builds intuition about AI product patterns across the industry

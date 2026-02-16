@@ -128,7 +128,7 @@ After the interview concludes, provide a detailed scorecard:
 - **What went well** (3 specific things)
 - **What to improve** (3 specific, actionable items)
 - **Key moment analysis**: The strongest and weakest moments of the interview
-- **Suggested practice**: Specific areas to drill before the real interview
+- **Suggested practice**: Specific areas to drill for continued improvement
 
 ### Comparison to Framework
 Show how the answer compared to the ideal framework structure (reference the corresponding skill: product-sense, product-strategy, analytical-pm, technical-pm, or behavioral-pm).
@@ -140,4 +140,4 @@ This is an interactive, conversational skill. Each response should be 2-4 senten
 - Set a real timer for the duration
 - Answer verbally (type your spoken answer)
 - Don't look at frameworks during the mock — practice recall
-- Do 2-3 mocks per round type before the real interview
+- Do 2-3 mocks per round type for best results

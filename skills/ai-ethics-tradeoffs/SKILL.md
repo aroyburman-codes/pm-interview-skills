@@ -1,12 +1,12 @@
 ---
 name: ai-ethics-tradeoffs
-description: "Framework for navigating AI safety, ethics, and capability trade-off discussions. Covers responsible scaling, content policy, bias, privacy, dual-use, and alignment. Critical for Anthropic interviews and increasingly important at OpenAI and DeepMind."
+description: "Framework for navigating AI safety, ethics, and capability trade-off discussions. Covers responsible scaling, content policy, bias, privacy, dual-use, and alignment."
 argument-hint: "[ethical dilemma, safety question, or policy decision]"
 ---
 
 # AI Ethics & Trade-offs Skill
 
-Generate structured, nuanced analysis of AI safety, ethics, and capability trade-off questions — the kind increasingly asked in PM interviews at AI companies.
+Generate structured, nuanced analysis of AI safety, ethics, and capability trade-off questions — increasingly central to product decisions at AI companies.
 
 ## When to Use
 - User asks about AI safety trade-offs
@@ -14,9 +14,9 @@ Generate structured, nuanced analysis of AI safety, ethics, and capability trade
 - User asks "How would you handle [ethical dilemma in AI]?"
 - User says `/ai-ethics-tradeoffs` followed by a question
 - Any question about responsible AI development, deployment, or governance
-- Especially important for Anthropic interviews (safety-first culture)
+- Especially relevant for safety-focused AI companies like Anthropic
 
-## Why This Matters for PM Interviews
+## Why This Matters
 
 **Anthropic**: Safety is the company's reason for existing. Every PM must reason about safety-capability trade-offs fluently.
 
@@ -24,7 +24,7 @@ Generate structured, nuanced analysis of AI safety, ethics, and capability trade
 
 **DeepMind**: Deep commitment to responsible AI development. PMs bridge research safety work and product decisions.
 
-These questions are becoming more common and are often the deciding factor between "hire" and "strong hire" at these companies.
+These questions increasingly distinguish good product thinking from great.
 
 ## Framework: SAFE Method (5 Sections)
 
@@ -149,11 +149,11 @@ Write as a thoughtful, balanced analysis — not a sermon. Show you can reason a
 2. **Cite sources** — Include `[linked source](url)` inline, especially for specific policies and incidents.
 3. **Display** the complete analysis.
 
-## Strong-Hire Signals to Hit
+## What Good Looks Like
 - Identifies the core tension clearly (doesn't oversimplify)
 - Articulates multiple perspectives genuinely (not strawmanning)
 - Applies structured reasoning (not just gut feelings)
 - Makes a recommendation with conviction AND humility
 - Shows awareness of real-world examples and precedents
 - Connects ethical reasoning to product decisions (not just philosophy)
-- Demonstrates the company-specific safety values (especially for Anthropic)
+- Demonstrates awareness of company-specific safety values and approaches

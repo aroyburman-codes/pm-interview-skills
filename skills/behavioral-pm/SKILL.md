@@ -1,12 +1,12 @@
 ---
 name: behavioral-pm
-description: "Generate strong-hire PM behavioral interview answers for AI product roles. Enhanced STAR framework with leadership principles mapping. Use for: tell me about a time, conflict resolution, leadership, failure stories, stakeholder management."
+description: "Structured behavioral PM framework for AI product roles. Covers: leadership stories, conflict resolution, stakeholder management."
 argument-hint: "[behavioral question]"
 ---
 
 # Behavioral PM Skill
 
-Generate strong-hire caliber answers for PM behavioral interview questions targeting AI product roles.
+Apply a structured framework to PM behavioral questions targeting AI product roles.
 
 ## When to Use
 - User asks "Tell me about a time when..."
@@ -26,7 +26,7 @@ Generate strong-hire caliber answers for PM behavioral interview questions targe
 - Bias toward action and ambition
 - "Move fast, be bold, AGI benefits all of humanity"
 - Comfort with rapid pivots and high-stakes decisions
-- Collaborative with world-class researchers
+- Collaborative with researchers
 
 ### Anthropic
 - Safety-first mindset, intellectual rigor
@@ -114,7 +114,7 @@ Prepare 6-8 stories that can be adapted to multiple question types:
 | Going deep on AI/ML to earn researcher trust | Technical, Why AI, Collaboration |
 
 ## Output Format
-Structure as a polished interview answer. The enhanced STAR format should feel natural, not mechanical. Aim for 2-3 minutes spoken (~400-500 words). Include the reflection/growth signal at the end.
+Structure as a polished narrative. The enhanced STAR format should feel natural, not mechanical. Aim for ~400-500 words. Include the reflection/growth signal at the end.
 
 ## Research-First Workflow
 Before generating the answer:
@@ -122,7 +122,7 @@ Before generating the answer:
 2. **Tailor** — Map the story to the specific company's values.
 3. **Display** the complete enhanced STAR answer.
 
-## Strong-Hire Signals to Hit
+## What Good Looks Like
 - Story is specific with real details (names/roles can be anonymized)
 - Action section is 60%+ of the answer
 - Results are quantified

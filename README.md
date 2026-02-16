@@ -1,6 +1,6 @@
 # PM Skills for AI Product Managers
 
-**A Claude Code skill pack for AI-focused product managers — structured frameworks for daily PM workflows, product thinking, and career growth.**
+**Structured frameworks for AI product managers — covering daily workflows, product thinking, and technical depth.**
 
 Covers the full PM toolkit: writing PRDs, defining metrics, running prioritization, doing competitive analysis, building product strategy, and more — all tuned for the AI product landscape.
 
@@ -86,22 +86,9 @@ Each skill follows a research-first workflow:
 ### Prioritization
 `Impact → Confidence → Effort → Score → Rank → Communicate`
 
-## Who This Is For
+## Compatibility
 
-- Product managers working on AI/ML products
-- PMs transitioning into AI product roles
-- Anyone who wants structured frameworks for product thinking
-- Works with Claude Code, Cursor, Windsurf, Codex, and other tools supporting the [Agent Skills](https://agentskills.io) standard
-
-## What Makes This Different
-
-| | This repo | General PM skills | Generic templates |
-|---|---|---|---|
-| **AI-native** | Tuned for AI product landscape | Generic PM work | Industry-agnostic |
-| **Research-first** | Live web search for every output | Static frameworks | No research |
-| **Technical depth** | LLMs, evals, RAG, agents, alignment | No ML coverage | No technical |
-| **Workflow + Thinking** | Daily tools AND deep frameworks | Usually one or the other | Templates only |
-| **Cited sources** | Inline links in every output | No citations | No citations |
+Works with Claude Code, Cursor, Windsurf, Codex, and other tools supporting the [Agent Skills](https://agentskills.io) standard.
 
 ## Contributing
 

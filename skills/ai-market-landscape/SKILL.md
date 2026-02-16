@@ -1,12 +1,12 @@
 ---
 name: ai-market-landscape
-description: "Real-time competitive analysis of the AI market. Covers foundation models, products, pricing, moats, and strategic positioning across OpenAI, Anthropic, Google, Meta, and emerging players. Essential context for PM interviews at AI companies."
+description: "Real-time competitive analysis of the AI market. Covers foundation models, products, pricing, moats, and strategic positioning across OpenAI, Anthropic, Google, Meta, and emerging players."
 argument-hint: "[specific area or company to focus on]"
 ---
 
 # AI Market Landscape Skill
 
-Generate a comprehensive, up-to-date analysis of the AI competitive landscape. Essential for building the market context needed in PM interviews at AI companies.
+Generate a comprehensive, up-to-date analysis of the AI competitive landscape — the market context every AI PM needs.
 
 ## When to Use
 - User asks "What's the current AI landscape?"
@@ -114,13 +114,13 @@ Analyze the key strategic questions shaping the market:
 - AI regulation (EU AI Act, US executive orders)
 - AI talent market dynamics
 
-### Section 6: Implications for PM Interviews
+### Section 6: Implications for Product Decisions
 
 Based on the landscape, highlight:
-- **Hot topics** likely to come up in interviews at each company
-- **Strategic questions** each company is wrestling with
+- **Key questions** each company is wrestling with right now
+- **Strategic tensions** shaping product roadmaps
 - **Product opportunities** where each company has a gap
-- **Talking points** to demonstrate market awareness
+- **Open debates** in the AI product community
 
 ## Output Format
 Write as an analyst briefing — data-driven, opinionated, and actionable. Use tables for comparisons. Include specific numbers and sources. Aim for ~2500 words.
@@ -132,7 +132,7 @@ This skill is ONLY valuable with fresh data:
 3. **Date the analysis** — Include "As of [date]" so the user knows the freshness.
 4. **Display** the complete landscape analysis.
 
-## Strong-Hire Signals (Why This Helps in Interviews)
+## What Good Looks Like
 - Demonstrates you follow the AI market closely
 - Shows you understand competitive dynamics beyond surface level
 - Provides specific data points to drop in strategy discussions

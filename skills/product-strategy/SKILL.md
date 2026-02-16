@@ -1,12 +1,12 @@
 ---
 name: product-strategy
-description: "Generate strong-hire PM product strategy interview answers for AI product roles. Structured framework: Alignment, Landscape, Options, Recommendation, Risks. Use for: market entry, competitive positioning, build-vs-buy, long-term vision."
+description: "Structured product strategy framework for AI product roles. Covers: market entry, competitive positioning, build-vs-buy, long-term vision."
 argument-hint: "[interview question]"
 ---
 
 # Product Strategy Skill
 
-Generate strong-hire caliber answers for PM product strategy interview questions targeting AI product roles.
+Apply a structured framework to PM product strategy questions targeting AI product roles.
 
 ## When to Use
 - User asks "What strategy would you use for X"
@@ -99,15 +99,15 @@ Always apply these when discussing AI company strategy:
 - **Talent Market**: How does this affect ability to attract top researchers and engineers?
 
 ## Output Format
-Structure as a mock interview answer — start conversational, then get structured. For a 35-minute interview, aim for ~2500 words. Show your strategic reasoning, not just conclusions.
+Structure as a strategic analysis — start conversational, then get structured. Aim for ~2500 words. Show your strategic reasoning, not just conclusions.
 
 ## Research-First Workflow
 Before generating the answer:
-1. **Research** — Use web search to find latest thinking from AI leaders (Altman, Amodei, Hassabis), PM thought leaders (Stratechery, Lenny's Newsletter), market data, competitor intel. Do 5-10 searches.
+1. **Research** — Use web search to find latest thinking from AI company blogs, industry analysts, market data, competitor intel. Do 5-10 searches.
 2. **Cite sources** — Include `[linked source](url)` inline for major claims, data points, and trends.
 3. **Display** the complete structured answer.
 
-## Strong-Hire Signals to Hit
+## What Good Looks Like
 - Starts with clarifying questions to scope the strategy question
 - Shows awareness of where value accrues vs. commoditizes in AI
 - Reasons about competitive dynamics specific to AI companies (not generic strategy)
