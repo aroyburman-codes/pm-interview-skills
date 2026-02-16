@@ -1,12 +1,12 @@
 ---
 name: technical-pm
-description: "Generate strong-hire technical PM interview answers for AGI companies (OpenAI, Anthropic, DeepMind). Uses AGI Stack Method: Constraints, Personas, System Design, Trade-offs, API/DX, Metrics. Use for: RLHF, evals, RAG, LLM deployment, system design, API design."
+description: "Generate strong-hire technical PM interview answers for AI product roles. Uses AI PM Technical Method: Constraints, Personas, System Design, Trade-offs, API/DX, Metrics. Use for: RLHF, evals, RAG, LLM deployment, system design, API design."
 argument-hint: "[interview question]"
 ---
 
 # Technical PM Skill
 
-Generate strong-hire caliber answers for technical PM interview questions targeting AGI companies (OpenAI, Anthropic, DeepMind).
+Generate strong-hire caliber answers for technical PM interview questions targeting AI product roles.
 
 ## When to Use
 - User asks about RLHF, fine-tuning, evals, inference, model architecture
@@ -22,7 +22,7 @@ Generate strong-hire caliber answers for technical PM interview questions target
 - **Bar**: These companies need PMs who can go deep with researchers and engineers. You don't need to implement, but you need to understand the technical landscape well enough to make informed product decisions.
 - **Common pitfall**: Hand-waving on technical details. Be specific about architectures, trade-offs, and constraints.
 
-## Framework: AGI Stack Method (6 Sections)
+## Framework: AI PM Technical Method (6 Sections)
 
 ### Section 1: Technical Clarifications & Constraints
 Before designing anything, scope the technical problem:
@@ -158,7 +158,7 @@ Structure as a mock interview answer. Be technical but accessible — show you c
 
 ## Research-First Workflow
 Before generating the answer:
-1. **Research** — Use web search to find latest technical thinking from AGI leaders, engineering blogs (OpenAI, Anthropic, Google), papers, benchmarks. Do 5-10 searches.
+1. **Research** — Use web search to find latest technical thinking from AI leaders, engineering blogs (OpenAI, Anthropic, Google), papers, benchmarks. Do 5-10 searches.
 2. **Cite sources** — Include `[linked source](url)` inline for technical claims and architecture decisions.
 3. **Display** the complete structured answer.
 

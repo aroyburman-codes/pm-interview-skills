@@ -1,12 +1,12 @@
 ---
 name: mock-interviewer
-description: "Interactive PM mock interview simulator for AGI companies (OpenAI, Anthropic, DeepMind). Plays the role of interviewer, asks follow-ups, scores answers against hiring rubrics, and provides detailed feedback. Supports all round types: product sense, strategy, analytical, technical, behavioral."
+description: "Interactive PM mock interview simulator for AI product roles. Plays the role of interviewer, asks follow-ups, scores answers against hiring rubrics, and provides detailed feedback. Supports all round types: product sense, strategy, analytical, technical, behavioral."
 argument-hint: "[round type] [company] or just start for random"
 ---
 
 # Mock Interviewer Skill
 
-Run an interactive mock PM interview simulating real interview conditions at AGI companies (OpenAI, Anthropic, DeepMind).
+Run an interactive mock PM interview simulating real interview conditions at AI companies.
 
 ## When to Use
 - User says `/mock-interviewer` to start a mock session

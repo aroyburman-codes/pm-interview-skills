@@ -1,7 +1,7 @@
 {
   "name": "pm-interview-skills",
   "version": "1.0.0",
-  "description": "PM interview prep skills for AGI companies (OpenAI, Anthropic, DeepMind). 10 structured frameworks covering product sense, strategy, analytics, technical depth, behavioral, mock interviews, and more.",
+  "description": "PM workflow and product thinking skills for AI product managers. 16 structured frameworks covering PRDs, prioritization, metrics, strategy, product sense, research synthesis, and more.",
   "author": "aroyburman-codes",
   "homepage": "https://github.com/aroyburman-codes/pm-interview-skills",
   "license": "MIT",
@@ -15,6 +15,13 @@
     "skills/ai-market-landscape",
     "skills/mock-interviewer",
     "skills/pm-case-study",
-    "skills/ai-ethics-tradeoffs"
+    "skills/ai-ethics-tradeoffs",
+    "skills/prd-writer",
+    "skills/prioritization-matrix",
+    "skills/user-research-synthesis",
+    "skills/launch-checklist",
+    "skills/stakeholder-brief",
+    "skills/metric-dashboard",
+    "skills/pm-writing"
   ]
 }

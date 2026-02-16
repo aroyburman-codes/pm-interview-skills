@@ -1,12 +1,12 @@
 ---
 name: product-sense
-description: "Generate strong-hire PM product sense/design interview answers for AGI companies (OpenAI, Anthropic, DeepMind). Structured framework: Clarify, Why Build, Users, Pain Points, Solutions, Metrics. Use for: design a product, improve X, productize a capability."
+description: "Generate strong-hire PM product sense/design interview answers for AI product roles. Structured framework: Clarify, Why Build, Users, Pain Points, Solutions, Metrics. Use for: design a product, improve X, productize a capability."
 argument-hint: "[interview question]"
 ---
 
 # Product Sense Skill
 
-Generate strong-hire caliber answers for PM product sense / product design interview questions targeting AGI companies (OpenAI, Anthropic, DeepMind).
+Generate strong-hire caliber answers for PM product sense / product design interview questions targeting AI product roles.
 
 ## When to Use
 - User asks a "Design a product for X" question
@@ -87,9 +87,9 @@ For each selected pain point:
 - **Counter/Guardrail Metrics** (2-3): What we must NOT break (safety, quality, trust)
 - **How to measure**: What instrumentation is needed?
 
-## AGI Company Flavor
+## AI Company Flavor
 
-When the question is about an AGI company product, layer in:
+When the question is about an AI company product, layer in:
 - **Safety considerations**: How does this product avoid harm? What guardrails exist?
 - **Model capabilities**: What model capabilities enable this? What's the technical frontier?
 - **Scaling dynamics**: How does this get better with more users/data?
@@ -101,7 +101,7 @@ Structure the response as a mock interview answer - conversational but structure
 
 ## Research-First Workflow
 Before generating the answer:
-1. **Research** — Use web search to find latest thinking from AGI leaders (Altman, Amodei, Hassabis), PM thought leaders, market data, competitor intel. Do 5-10 searches.
+1. **Research** — Use web search to find latest thinking from AI leaders (Altman, Amodei, Hassabis), PM thought leaders, market data, competitor intel. Do 5-10 searches.
 2. **Cite sources** — Include `[linked source](url)` inline for major claims, data points, and trends.
 3. **Display** the complete structured answer.
 

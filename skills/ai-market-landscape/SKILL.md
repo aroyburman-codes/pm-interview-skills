@@ -1,12 +1,12 @@
 ---
 name: ai-market-landscape
-description: "Real-time competitive analysis of the AI/AGI market. Covers foundation models, products, pricing, moats, and strategic positioning across OpenAI, Anthropic, Google, Meta, and emerging players. Essential context for PM interviews at AGI companies."
+description: "Real-time competitive analysis of the AI market. Covers foundation models, products, pricing, moats, and strategic positioning across OpenAI, Anthropic, Google, Meta, and emerging players. Essential context for PM interviews at AI companies."
 argument-hint: "[specific area or company to focus on]"
 ---
 
 # AI Market Landscape Skill
 
-Generate a comprehensive, up-to-date analysis of the AI/AGI competitive landscape. Essential for building the market context needed in PM interviews at AGI companies.
+Generate a comprehensive, up-to-date analysis of the AI competitive landscape. Essential for building the market context needed in PM interviews at AI companies.
 
 ## When to Use
 - User asks "What's the current AI landscape?"

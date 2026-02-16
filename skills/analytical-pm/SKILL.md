@@ -1,12 +1,12 @@
 ---
 name: analytical-pm
-description: "Generate strong-hire PM analytical/metrics interview answers for AGI companies (OpenAI, Anthropic, DeepMind). Structured analytical + MECI frameworks. Use for: metrics, goal-setting, root-cause analysis, trade-offs, A/B tests."
+description: "Generate strong-hire PM analytical/metrics interview answers for AI product roles. Structured analytical + MECI frameworks. Use for: metrics, goal-setting, root-cause analysis, trade-offs, A/B tests."
 argument-hint: "[interview question]"
 ---
 
 # Analytical PM Skill
 
-Generate strong-hire caliber answers for PM analytical, metrics, root-cause, and trade-off interview questions targeting AGI companies (OpenAI, Anthropic, DeepMind).
+Generate strong-hire caliber answers for PM analytical, metrics, root-cause, and trade-off interview questions targeting AI product roles.
 
 ## When to Use
 - User asks "What metrics would you use for X"

@@ -1,12 +1,12 @@
 ---
 name: product-strategy
-description: "Generate strong-hire PM product strategy interview answers for AGI companies (OpenAI, Anthropic, DeepMind). Structured framework: Alignment, Landscape, Options, Recommendation, Risks. Use for: market entry, competitive positioning, build-vs-buy, long-term vision."
+description: "Generate strong-hire PM product strategy interview answers for AI product roles. Structured framework: Alignment, Landscape, Options, Recommendation, Risks. Use for: market entry, competitive positioning, build-vs-buy, long-term vision."
 argument-hint: "[interview question]"
 ---
 
 # Product Strategy Skill
 
-Generate strong-hire caliber answers for PM product strategy interview questions targeting AGI companies (OpenAI, Anthropic, DeepMind).
+Generate strong-hire caliber answers for PM product strategy interview questions targeting AI product roles.
 
 ## When to Use
 - User asks "What strategy would you use for X"
@@ -47,7 +47,7 @@ State the strategic question clearly in one sentence. Then:
 - Indirect competitors and substitutes
 - Where is the market commoditizing? Where is there differentiation?
 
-**Porter's Five Forces** (applied to AI/AGI context):
+**Porter's Five Forces** (applied to AI context):
 - Threat of new entrants (open-source models, startups)
 - Supplier power (compute providers, data sources, talent)
 - Buyer power (enterprise vs consumer, switching costs)
@@ -88,9 +88,9 @@ Imagine it's 18 months later and the strategy failed. What went wrong?
 - **Risk 3**: [Blind spot / unexpected competitor move] → Mitigation
 - **Kill criteria**: What signals would tell us to pivot?
 
-## AGI-Specific Strategic Lenses
+## AI-Specific Strategic Lenses
 
-Always apply these when discussing AGI company strategy:
+Always apply these when discussing AI company strategy:
 - **Capability Trajectory**: How do improving model capabilities change this strategy in 6/12/24 months?
 - **Safety-Capability Frontier**: How does this balance pushing capabilities vs. maintaining safety?
 - **Open vs. Closed**: What's the right openness posture? (open-source model weights vs. API-only vs. hybrid)
@@ -103,14 +103,14 @@ Structure as a mock interview answer — start conversational, then get structur
 
 ## Research-First Workflow
 Before generating the answer:
-1. **Research** — Use web search to find latest thinking from AGI leaders (Altman, Amodei, Hassabis), PM thought leaders (Stratechery, Lenny's Newsletter), market data, competitor intel. Do 5-10 searches.
+1. **Research** — Use web search to find latest thinking from AI leaders (Altman, Amodei, Hassabis), PM thought leaders (Stratechery, Lenny's Newsletter), market data, competitor intel. Do 5-10 searches.
 2. **Cite sources** — Include `[linked source](url)` inline for major claims, data points, and trends.
 3. **Display** the complete structured answer.
 
 ## Strong-Hire Signals to Hit
 - Starts with clarifying questions to scope the strategy question
 - Shows awareness of where value accrues vs. commoditizes in AI
-- Reasons about competitive dynamics specific to AGI (not generic strategy)
+- Reasons about competitive dynamics specific to AI companies (not generic strategy)
 - Presents multiple options before recommending (shows breadth of thinking)
 - Recommendation is opinionated and defensible
 - Considers second and third-order effects

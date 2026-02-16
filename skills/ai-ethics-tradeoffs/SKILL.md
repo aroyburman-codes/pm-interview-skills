@@ -6,7 +6,7 @@ argument-hint: "[ethical dilemma, safety question, or policy decision]"
 
 # AI Ethics & Trade-offs Skill
 
-Generate structured, nuanced analysis of AI safety, ethics, and capability trade-off questions — the kind increasingly asked in PM interviews at AGI companies.
+Generate structured, nuanced analysis of AI safety, ethics, and capability trade-off questions — the kind increasingly asked in PM interviews at AI companies.
 
 ## When to Use
 - User asks about AI safety trade-offs

@@ -1,12 +1,12 @@
 ---
 name: behavioral-pm
-description: "Generate strong-hire PM behavioral interview answers for AGI companies (OpenAI, Anthropic, DeepMind). Enhanced STAR framework with leadership principles mapping. Use for: tell me about a time, conflict resolution, leadership, failure stories, stakeholder management."
+description: "Generate strong-hire PM behavioral interview answers for AI product roles. Enhanced STAR framework with leadership principles mapping. Use for: tell me about a time, conflict resolution, leadership, failure stories, stakeholder management."
 argument-hint: "[behavioral question]"
 ---
 
 # Behavioral PM Skill
 
-Generate strong-hire caliber answers for PM behavioral interview questions targeting AGI companies (OpenAI, Anthropic, DeepMind).
+Generate strong-hire caliber answers for PM behavioral interview questions targeting AI product roles.
 
 ## When to Use
 - User asks "Tell me about a time when..."
@@ -17,10 +17,10 @@ Generate strong-hire caliber answers for PM behavioral interview questions targe
 
 ## Interview Context
 - **Target**: OpenAI, Anthropic, DeepMind PM roles
-- **Bar**: Behavioral rounds at AGI companies test for intellectual humility, comfort with ambiguity, collaborative leadership, and genuine passion for AI's impact on the world.
+- **Bar**: Behavioral rounds at AI companies test for intellectual humility, comfort with ambiguity, collaborative leadership, and genuine passion for AI's impact on the world.
 - **Key differences from FAANG behavioral**: These companies care less about "driving results at scale" and more about "navigating uncertainty with good judgment" and "working effectively with researchers."
 
-## Company-Specific Values
+## Values by AI Company Type
 
 ### OpenAI
 - Bias toward action and ambition
@@ -61,37 +61,37 @@ After every STAR answer, add one of:
 - How you aligned cross-functional teams
 - Influencing engineers/researchers who disagreed
 - Driving decisions when you weren't the decision-maker
-- **AGI company angle**: Working with PhD researchers who have deep domain expertise
+- **AI company angle**: Working with PhD researchers who have deep domain expertise
 
 ### 2. Conflict & Difficult Stakeholders
 - Navigating disagreements with senior leaders
 - Managing competing priorities across teams
 - Saying no to important people
-- **AGI company angle**: Balancing safety concerns vs. shipping pressure
+- **AI company angle**: Balancing safety concerns vs. shipping pressure
 
 ### 3. Failure & Learning
 - A time something went wrong and how you recovered
 - Making a bad product decision and what you learned
 - A project that got killed or pivoted
-- **AGI company angle**: Show intellectual humility and learning velocity
+- **AI company angle**: Show intellectual humility and learning velocity
 
 ### 4. Ambiguity & Strategy
 - Making decisions with incomplete information
 - Defining a product direction in a new space
 - Navigating rapidly changing technical landscape
-- **AGI company angle**: The AI field changes weekly — how do you stay calibrated?
+- **AI company angle**: The AI field changes weekly — how do you stay calibrated?
 
 ### 5. Technical Collaboration
 - Working closely with ML engineers or researchers
 - Translating technical constraints into product decisions
 - Building trust with deeply technical teams
-- **AGI company angle**: PMs at AGI companies must earn credibility with researchers
+- **AI company angle**: PMs at AI companies must earn credibility with researchers
 
 ### 6. Impact & Execution
 - Shipping something that moved a key metric significantly
 - Scaling a product from 0→1 or 1→100
 - Making trade-offs between speed and quality
-- **AGI company angle**: Show you can operate at startup speed with enterprise stakes
+- **AI company angle**: Show you can operate at startup speed with enterprise stakes
 
 ## Anti-Patterns to Avoid
 - **Too generic**: "I communicated clearly and it worked out" — be SPECIFIC
@@ -99,7 +99,7 @@ After every STAR answer, add one of:
 - **No numbers**: Always quantify results (users, revenue, latency, accuracy)
 - **No vulnerability**: Especially at Anthropic — show intellectual humility
 - **Recency bias**: Have stories from different roles/contexts ready
-- **No "why AI"**: Every answer should subtly reinforce why you belong at an AGI company
+- **No "why AI"**: Every answer should subtly reinforce why you belong at an AI company
 
 ## Story Bank Preparation
 Prepare 6-8 stories that can be adapted to multiple question types:
