@@ -69,7 +69,7 @@ Analyze the technical choices from a product perspective:
 If you were the PM, what would you do next?
 - **Top 3 features to build** (with reasoning and expected impact)
 - **Top 1 thing to kill or change** (what's not working)
-- **Strategic bet**: One big swing that could 10x the product
+- **Strategic bet**: One big swing that could transform the product
 - **Metrics to watch**: What would you track weekly?
 
 ## Output Format

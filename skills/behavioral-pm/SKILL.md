@@ -15,10 +15,10 @@ Apply a structured framework to PM behavioral questions targeting AI product rol
 - User says `/behavioral-pm` followed by a question
 - Any behavioral, situational, or "tell me about yourself" question
 
-## Interview Context
-- **Target**: OpenAI, Anthropic, DeepMind PM roles
-- **Bar**: Behavioral rounds at AI companies test for intellectual humility, comfort with ambiguity, collaborative leadership, and genuine passion for AI's impact on the world.
-- **Key differences from FAANG behavioral**: These companies care less about "driving results at scale" and more about "navigating uncertainty with good judgment" and "working effectively with researchers."
+## Context
+- **Tuned for**: AI product roles at companies like OpenAI, Anthropic, and DeepMind
+- **What matters**: Intellectual humility, comfort with ambiguity, collaborative leadership, and genuine passion for AI's impact on the world.
+- **Key difference from big tech**: AI companies care less about "driving results at scale" and more about "navigating uncertainty with good judgment" and "working effectively with researchers."
 
 ## Values by AI Company Type
 
@@ -61,37 +61,37 @@ After every STAR answer, add one of:
 - How you aligned cross-functional teams
 - Influencing engineers/researchers who disagreed
 - Driving decisions when you weren't the decision-maker
-- **AI company angle**: Working with PhD researchers who have deep domain expertise
+- *In AI orgs*: Working with PhD researchers who have deep domain expertise
 
 ### 2. Conflict & Difficult Stakeholders
 - Navigating disagreements with senior leaders
 - Managing competing priorities across teams
 - Saying no to important people
-- **AI company angle**: Balancing safety concerns vs. shipping pressure
+- *In AI orgs*: Balancing safety concerns vs. shipping pressure
 
 ### 3. Failure & Learning
 - A time something went wrong and how you recovered
 - Making a bad product decision and what you learned
 - A project that got killed or pivoted
-- **AI company angle**: Show intellectual humility and learning velocity
+- *In AI orgs*: Intellectual humility and learning velocity matter most
 
 ### 4. Ambiguity & Strategy
 - Making decisions with incomplete information
 - Defining a product direction in a new space
 - Navigating rapidly changing technical landscape
-- **AI company angle**: The AI field changes weekly — how do you stay calibrated?
+- *In AI orgs*: The field changes weekly — staying calibrated matters
 
 ### 5. Technical Collaboration
 - Working closely with ML engineers or researchers
 - Translating technical constraints into product decisions
 - Building trust with deeply technical teams
-- **AI company angle**: PMs at AI companies must earn credibility with researchers
+- *In AI orgs*: PMs must earn credibility with researchers
 
 ### 6. Impact & Execution
 - Shipping something that moved a key metric significantly
 - Scaling a product from 0→1 or 1→100
 - Making trade-offs between speed and quality
-- **AI company angle**: Show you can operate at startup speed with enterprise stakes
+- *In AI orgs*: Operating at startup speed with enterprise stakes
 
 ## Anti-Patterns to Avoid
 - **Too generic**: "I communicated clearly and it worked out" — be SPECIFIC
@@ -101,8 +101,8 @@ After every STAR answer, add one of:
 - **Recency bias**: Have stories from different roles/contexts ready
 - **No "why AI"**: Every answer should subtly reinforce why you belong at an AI company
 
-## Story Bank Preparation
-Prepare 6-8 stories that can be adapted to multiple question types:
+## Reusable Story Themes
+Strong behavioral answers draw from a bank of 6-8 real experiences that map to multiple categories:
 
 | Story Theme | Maps To |
 |------------|---------|

@@ -17,9 +17,9 @@ Apply a structured framework to PM analytical, metrics, root-cause, and trade-of
 - User says `/analytical-pm` followed by a question
 - Any question about metrics, goals, root-cause analysis, A/B tests, or trade-offs
 
-## Interview Context
-- **Target**: OpenAI, Anthropic, DeepMind PM roles
-- **Bar**: Analytical interviews test whether you can translate product intuition into measurable outcomes and debug complex systems with data
+## Context
+- **Tuned for**: AI product roles at companies like OpenAI, Anthropic, and DeepMind
+- **What matters**: Translating product intuition into measurable outcomes and debugging complex systems with data
 - **Common pitfall**: Picking vanity metrics or being too qualitative. Be rigorous and quantitative.
 
 ## Three Question Types
@@ -80,7 +80,7 @@ State how you'd resolve each (e.g., set guardrail thresholds, A/B test, phased r
 ### TYPE B: Root-Cause / Diagnostic Questions
 "Metric X dropped 20% this week. Diagnose it."
 
-**Framework: MECI (Mutually Exclusive, Collectively Inclusive)**
+**Framework: MECE (Mutually Exclusive, Collectively Exhaustive)**
 
 #### Step 1: Clarify
 - Which metric exactly? Over what timeframe? What's the baseline?
@@ -94,7 +94,7 @@ Break the metric down systematically:
 - **By time**: When exactly did the drop start? Correlated with any deploy/event?
 - **By funnel stage**: Where in the funnel is the drop?
 
-#### Step 3: Hypothesize (MECI)
+#### Step 3: Hypothesize (MECE)
 Generate hypotheses that are mutually exclusive and collectively exhaustive:
 
 **Internal factors:**
@@ -172,6 +172,6 @@ Before generating the answer:
 - NSM captures core user value (not vanity metrics)
 - Metric tree is decomposable and actionable
 - Counter metrics show product maturity (especially safety for AI)
-- Root-cause analysis is structured and exhaustive (MECI)
+- Root-cause analysis is structured and exhaustive (MECE)
 - Trade-off analysis is quantitative, not just qualitative
 - Shows awareness of AI-specific measurement challenges

@@ -17,9 +17,9 @@ Apply a structured framework to PM product strategy questions targeting AI produ
 - User says `/product-strategy` followed by a question
 - Any question about go-to-market, competitive dynamics, build-vs-buy, or strategic direction
 
-## Interview Context
-- **Target**: OpenAI, Anthropic, DeepMind PM roles
-- **Bar**: Strategy interviews test whether you can zoom out to the 30,000-foot view. These companies operate at the frontier — interviewers want to see you reason about where the market is GOING, not just where it is.
+## Context
+- **Tuned for**: AI product roles at companies like OpenAI, Anthropic, and DeepMind
+- **What matters**: Zooming out to the 30,000-foot view. These companies operate at the frontier — the best strategic thinking reasons about where the market is going, not just where it is.
 - **Common pitfall**: Not landing a clear position. You must identify where the moat is, where commoditization is happening, and connect mission to business goals.
 
 ## Framework: Product Strategy (5 Sections)

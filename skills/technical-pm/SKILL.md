@@ -17,9 +17,9 @@ Apply a structured framework to technical PM questions targeting AI product role
 - User says `/technical-pm` followed by a question
 - Any question requiring ML/AI technical depth from a PM perspective
 
-## Interview Context
-- **Target**: OpenAI, Anthropic, DeepMind PM roles
-- **Bar**: These companies need PMs who can go deep with researchers and engineers. You don't need to implement, but you need to understand the technical landscape well enough to make informed product decisions.
+## Context
+- **Tuned for**: AI product roles at companies like OpenAI, Anthropic, and DeepMind
+- **What matters**: Going deep with researchers and engineers. You don't need to implement, but you need to understand the technical landscape well enough to make informed product decisions.
 - **Common pitfall**: Hand-waving on technical details. Be specific about architectures, trade-offs, and constraints.
 
 ## Framework: AI PM Technical Method (6 Sections)

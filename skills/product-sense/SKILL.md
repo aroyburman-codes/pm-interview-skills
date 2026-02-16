@@ -15,10 +15,10 @@ Apply a structured framework to PM product sense / product design questions targ
 - User says `/product-sense` followed by a question
 - Any product design, product sense, or "build a product" interview question
 
-## Interview Context
-- **Target**: OpenAI, Anthropic, DeepMind PM roles
-- **Bar**: These companies value first-principles thinking, ambition, structured clarity, and taste
-- **Common pitfall**: Rushing to solutions without clarifying the problem first. ALWAYS start with clarifying questions.
+## Context
+- **Tuned for**: AI product roles at companies like OpenAI, Anthropic, and DeepMind
+- **What matters**: First-principles thinking, ambition, structured clarity, and taste
+- **Common pitfall**: Rushing to solutions without clarifying the problem first. Always start with clarifying questions.
 
 ## Framework: Product Sense (6 Sections)
 
@@ -94,7 +94,7 @@ When the question is about an AI company product, layer in:
 - **Model capabilities**: What model capabilities enable this? What's the technical frontier?
 - **Scaling dynamics**: How does this get better with more users/data?
 - **Mission alignment**: Tie back to the specific company's mission
-- **Taste**: OpenAI values ambitious, creative, 10x thinking. Anthropic values careful, principled, safety-first thinking. DeepMind values scientific rigor.
+- **Taste**: OpenAI values ambitious, creative, step-change thinking. Anthropic values careful, principled, safety-first thinking. DeepMind values scientific rigor.
 
 ## Output Format
 Structure the response as a conversational walkthrough — structured but natural. Use the section headers. Aim for ~2500 words total. Flag where you'd pause for discussion or input.

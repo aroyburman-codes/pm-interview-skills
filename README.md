@@ -77,7 +77,7 @@ Each skill follows a research-first workflow:
 
 ### Analytical PM
 - **Metrics**: NSM → Supporting → Counter → Ecosystem → Trade-offs
-- **Root-cause**: Clarify → Segment → Hypothesize (MECI) → Validate → Act
+- **Root-cause**: Clarify → Segment → Hypothesize (MECE) → Validate → Act
 - **Trade-offs**: Quantify → Framework → Experiment → Recommend
 
 ### Technical PM
