@@ -72,10 +72,10 @@ Extract 3-5 lessons for product managers:
 - Cursor's bet on AI-native IDE
 
 ### Strategic Pivots
-- OpenAI's shift from nonprofit to capped-profit
-- Anthropic's pivot from pure research to product company
-- Google's "code red" and Gemini response
-- Meta's open-source Llama strategy
+- An AI lab's shift from nonprofit to capped-profit
+- A safety lab's pivot from pure research to product company
+- A big tech company's emergency response to ChatGPT
+- An open-source LLM strategy from a major tech company
 
 ### Feature Decisions
 - ChatGPT Plugins → GPTs → the pivot to actions/agents
@@ -85,7 +85,7 @@ Extract 3-5 lessons for product managers:
 - NotebookLM's audio overview feature
 
 ### Pricing & Business Model
-- OpenAI API pricing evolution (the race to the bottom)
+- LLM API pricing evolution (the race to the bottom)
 - ChatGPT Plus ($20/month) → Team → Enterprise tiers
 - The free tier strategy across AI companies
 - Usage-based vs. seat-based pricing in AI

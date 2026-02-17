@@ -16,7 +16,7 @@ Apply a structured framework to PM product sense / product design questions targ
 - Any product design, product sense, or "build a product" interview question
 
 ## Context
-- **Tuned for**: AI product roles at companies like OpenAI, Anthropic, and DeepMind
+- **Tuned for**: AI product roles at frontier AI companies
 - **What matters**: First-principles thinking, ambition, structured clarity, and taste
 - **Common pitfall**: Rushing to solutions without clarifying the problem first. Always start with clarifying questions.
 
@@ -35,7 +35,7 @@ Ask 3-5 clarifying questions before proceeding. Categories:
 After listing questions, state reasonable assumptions for each and proceed.
 
 ### Section 2: Product Strategy & Rationale (WHY BUILD THIS)
-- **Company Mission**: How does this align with the company's mission? (For OpenAI: "Ensure AGI benefits all of humanity." For Anthropic: "AI safety research company building reliable AI systems." For DeepMind: "Solve intelligence to advance science and benefit humanity.")
+- **Company Mission**: How does this align with the company's stated mission? Reference the specific company's mission statement and connect your product thinking to it.
 - **Trends & Tailwinds**: What macro trends make this timely? (AI adoption curves, regulatory shifts, user behavior changes)
 - **Competition**: Who else is doing this? What's the gap?
 - **Strategic Moat**: What unique advantage does this company have here?
@@ -94,7 +94,7 @@ When the question is about an AI company product, layer in:
 - **Model capabilities**: What model capabilities enable this? What's the technical frontier?
 - **Scaling dynamics**: How does this get better with more users/data?
 - **Mission alignment**: Tie back to the specific company's mission
-- **Taste**: OpenAI values ambitious, creative, step-change thinking. Anthropic values careful, principled, safety-first thinking. DeepMind values scientific rigor.
+- **Taste**: Match the company's culture — some labs value ambitious, creative, step-change thinking; others value careful, principled, safety-first thinking; others value scientific rigor. Research the specific company's values beforehand.
 
 ## Output Format
 Structure the response as a conversational walkthrough — structured but natural. Use the section headers. Aim for ~2500 words total. Flag where you'd pause for discussion or input.

@@ -43,19 +43,19 @@ Covers the full PM toolkit: writing PRDs, defining metrics, running prioritizati
 ### Claude Code Plugin (Recommended)
 
 ```bash
-/plugin marketplace add aroyburman-codes/pm-interview-skills
+/plugin marketplace add aroyburman-codes/pm-skills
 ```
 
 ### Manual Installation
 
 ```bash
-git clone https://github.com/aroyburman-codes/pm-interview-skills.git ~/.claude/skills/pm-interview-skills
+git clone https://github.com/aroyburman-codes/pm-skills.git ~/.claude/skills/pm-skills
 ```
 
 ### OpenSkills (Cross-tool)
 
 ```bash
-npx openskills install aroyburman-codes/pm-interview-skills
+npx openskills install aroyburman-codes/pm-skills
 ```
 
 ## How It Works

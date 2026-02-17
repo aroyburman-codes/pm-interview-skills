@@ -1,9 +1,9 @@
 {
-  "name": "pm-interview-skills",
+  "name": "pm-skills",
   "version": "1.0.0",
   "description": "PM workflow and product thinking skills for AI product managers. 17 structured frameworks covering PRDs, prioritization, metrics, strategy, product sense, research synthesis, and more.",
   "author": "aroyburman-codes",
-  "homepage": "https://github.com/aroyburman-codes/pm-interview-skills",
+  "homepage": "https://github.com/aroyburman-codes/pm-skills",
   "license": "MIT",
   "skills": [
     "skills/product-sense",

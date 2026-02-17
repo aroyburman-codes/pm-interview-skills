@@ -18,7 +18,7 @@ Apply a structured framework to PM analytical, metrics, root-cause, and trade-of
 - Any question about metrics, goals, root-cause analysis, A/B tests, or trade-offs
 
 ## Context
-- **Tuned for**: AI product roles at companies like OpenAI, Anthropic, and DeepMind
+- **Tuned for**: AI product roles at frontier AI companies
 - **What matters**: Translating product intuition into measurable outcomes and debugging complex systems with data
 - **Common pitfall**: Picking vanity metrics or being too qualitative. Be rigorous and quantitative.
 
@@ -38,7 +38,7 @@ Apply a structured framework to PM analytical, metrics, root-cause, and trade-of
 The NSM must capture the **core value exchange** between product and user.
 - Formula: NSM = [engagement unit] per [user segment] per [time period]
 - Example (ChatGPT): # of successful conversations per weekly active user
-- Example (OpenAI API): # of API calls generating production value per monthly active developer
+- Example (LLM API platform): # of API calls generating production value per monthly active developer
 - Example (Claude): # of tasks completed per weekly active user
 
 **Decompose the NSM** into a metric tree:

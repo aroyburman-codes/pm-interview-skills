@@ -18,7 +18,7 @@ Apply a structured framework to PM product strategy questions targeting AI produ
 - Any question about go-to-market, competitive dynamics, build-vs-buy, or strategic direction
 
 ## Context
-- **Tuned for**: AI product roles at companies like OpenAI, Anthropic, and DeepMind
+- **Tuned for**: AI product roles at frontier AI companies
 - **What matters**: Zooming out to the 30,000-foot view. These companies operate at the frontier — the best strategic thinking reasons about where the market is going, not just where it is.
 - **Common pitfall**: Not landing a clear position. You must identify where the moat is, where commoditization is happening, and connect mission to business goals.
 
@@ -52,12 +52,12 @@ State the strategic question clearly in one sentence. Then:
 - Supplier power (compute providers, data sources, talent)
 - Buyer power (enterprise vs consumer, switching costs)
 - Threat of substitutes (alternative approaches, non-AI solutions)
-- Competitive rivalry (OpenAI vs Anthropic vs Google vs Meta vs open-source)
+- Competitive rivalry (between major AI labs and open-source)
 
 **Unique Leverage**: What does THIS company have that others don't?
-- For OpenAI: Distribution (ChatGPT 200M+ users), model capability leadership, developer ecosystem, Microsoft partnership
-- For Anthropic: Safety leadership, constitutional AI, enterprise trust, Claude's reasoning capability
-- For DeepMind: Google integration, research depth, scientific credibility, Gemini multimodal
+- For a model provider with distribution advantage: Consumer product reach, model capability leadership, developer ecosystem, strategic partnerships
+- For a safety-focused lab: Safety leadership, alignment research, enterprise trust, reasoning capability
+- For a research-first organization: Platform integration, research depth, scientific credibility, multimodal capabilities
 
 ### Section 3: Strategic Options (Build / Buy / Partner)
 Present 3 distinct strategic options. For each:

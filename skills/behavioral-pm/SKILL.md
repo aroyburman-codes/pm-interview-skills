@@ -16,27 +16,27 @@ Apply a structured framework to PM behavioral questions targeting AI product rol
 - Any behavioral, situational, or "tell me about yourself" question
 
 ## Context
-- **Tuned for**: AI product roles at companies like OpenAI, Anthropic, and DeepMind
+- **Tuned for**: AI product roles at frontier AI companies
 - **What matters**: Intellectual humility, comfort with ambiguity, collaborative leadership, and genuine passion for AI's impact on the world.
 - **Key difference from big tech**: AI companies care less about "driving results at scale" and more about "navigating uncertainty with good judgment" and "working effectively with researchers."
 
-## Values by AI Company Type
+## Values by AI Company Archetype
 
-### OpenAI
+### The Capability-Focused Lab
 - Bias toward action and ambition
-- "Move fast, be bold, AGI benefits all of humanity"
+- Move fast, be bold, push the frontier of what's possible
 - Comfort with rapid pivots and high-stakes decisions
 - Collaborative with researchers
 
-### Anthropic
+### The Safety-Focused Lab
 - Safety-first mindset, intellectual rigor
-- "Careful, principled, thoughtful"
+- Careful, principled, thoughtful approach
 - Willingness to slow down when safety demands it
 - Strong opinions loosely held
 
-### DeepMind
+### The Research-First Lab
 - Scientific rigor, research excellence
-- "Solve intelligence, then use that to solve everything else"
+- Solve fundamental problems, then apply them broadly
 - Bridging research and product
 - Long-term thinking over short-term wins
 
@@ -97,7 +97,7 @@ After every STAR answer, add one of:
 - **Too generic**: "I communicated clearly and it worked out" — be SPECIFIC
 - **Hero narrative**: "I single-handedly saved the project" — show collaboration
 - **No numbers**: Always quantify results (users, revenue, latency, accuracy)
-- **No vulnerability**: Especially at Anthropic — show intellectual humility
+- **No vulnerability**: Especially at safety-focused labs — show intellectual humility
 - **Recency bias**: Have stories from different roles/contexts ready
 - **No "why AI"**: Every answer should subtly reinforce why you belong at an AI company
 

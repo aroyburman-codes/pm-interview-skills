@@ -1,6 +1,6 @@
 ---
 name: ai-market-landscape
-description: "Real-time competitive analysis of the AI market. Covers foundation models, products, pricing, moats, and strategic positioning across OpenAI, Anthropic, Google, Meta, and emerging players."
+description: "Real-time competitive analysis of the AI market. Covers foundation models, products, pricing, moats, and strategic positioning across major AI labs and emerging players."
 argument-hint: "[specific area or company to focus on]"
 ---
 
@@ -39,7 +39,7 @@ For each layer:
 
 Compare the major model providers:
 
-| Dimension | OpenAI | Anthropic | Google | Meta | Mistral |
+| Dimension | Lab A | Lab B | Lab C | Lab D | Lab E |
 |-----------|--------|-----------|--------|------|---------|
 | Latest model | | | | | |
 | Key capability | | | | | |
@@ -62,7 +62,7 @@ Map AI products by category:
 
 **Developer AI:**
 - Code (Cursor, GitHub Copilot, Claude Code, Windsurf)
-- APIs & platforms (OpenAI API, Anthropic API, Vertex AI)
+- APIs & platforms (major LLM provider APIs, cloud AI platforms)
 - Infrastructure (Vercel AI SDK, LangChain, LlamaIndex)
 
 **Enterprise AI:**
@@ -70,7 +70,7 @@ Map AI products by category:
 - Vertical (Harvey for law, Abridge for healthcare, Palantir AIP)
 
 **Agents & Automation:**
-- Computer use agents (Anthropic, OpenAI Operator)
+- Computer use agents (browser and desktop automation)
 - Workflow automation (Make, Zapier AI, n8n)
 - Autonomous coding (Devin, Claude Code, Codex)
 
@@ -79,13 +79,13 @@ Map AI products by category:
 Analyze the key strategic questions shaping the market:
 
 **Open vs. Closed:**
-- Meta's open-source strategy (Llama) vs. OpenAI/Anthropic closed models
+- Open-weight model strategies vs. closed-model approaches
 - Impact on commoditization, developer loyalty, enterprise adoption
 - Where does open-source win? Where does it lose?
 
 **Consumer vs. Enterprise:**
-- OpenAI's consumer-first strategy (ChatGPT → enterprise)
-- Anthropic's enterprise-first strategy (API → consumer)
+- Consumer-first strategies (chatbot → enterprise upsell)
+- Enterprise-first strategies (API → consumer product)
 - Google's distribution advantage (Android, Chrome, Workspace, Search)
 
 **Horizontal vs. Vertical:**

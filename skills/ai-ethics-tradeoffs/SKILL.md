@@ -14,17 +14,17 @@ Generate structured, nuanced analysis of AI safety, ethics, and capability trade
 - User asks "How would you handle [ethical dilemma in AI]?"
 - User says `/ai-ethics-tradeoffs` followed by a question
 - Any question about responsible AI development, deployment, or governance
-- Especially relevant for safety-focused AI companies like Anthropic
+- Especially relevant for safety-focused AI companies
 
 ## Why This Matters
 
-**Anthropic**: Safety is the company's reason for existing. Every PM must reason about safety-capability trade-offs fluently.
+**At safety-focused labs**: Safety is core to the company's identity. Every PM must reason about safety-capability trade-offs fluently.
 
-**OpenAI**: Under increasing scrutiny for safety practices. PMs must articulate how to "move fast" responsibly.
+**At capability-focused labs**: Under increasing scrutiny for safety practices. PMs must articulate how to "move fast" responsibly.
 
-**DeepMind**: Deep commitment to responsible AI development. PMs bridge research safety work and product decisions.
+**At research-first labs**: Deep commitment to responsible AI development. PMs bridge research safety work and product decisions.
 
-These questions increasingly distinguish good product thinking from great.
+These questions increasingly distinguish good product thinking from great at any frontier AI company.
 
 ## Framework: SAFE Method (5 Sections)
 
@@ -105,9 +105,9 @@ Present 3 approaches (spectrum from cautious to permissive):
 - User expectations vs. safety requirements
 
 ### Responsible Scaling
-- Anthropic's Responsible Scaling Policy (RSP)
-- OpenAI's Preparedness Framework
-- DeepMind's approach to frontier AI safety
+- Responsible Scaling Policies (RSPs)
+- Preparedness Frameworks for frontier model deployment
+- Frontier AI safety approaches across major labs
 - When to slow down or stop scaling
 - Eval-gated deployment (capability thresholds that trigger safety reviews)
 

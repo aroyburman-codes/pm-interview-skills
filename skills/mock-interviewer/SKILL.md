@@ -22,7 +22,7 @@ This is an INTERACTIVE skill. Instead of generating a monologue, you play the ro
 
 ### Step 1: Configure the Mock
 Ask the user (or accept from arguments):
-- **Company**: OpenAI / Anthropic / DeepMind
+- **Company**: Any frontier AI company (or generic)
 - **Round type**: Product Sense / Product Strategy / Analytical / Technical / Behavioral
 - **Difficulty**: Standard / Hard / Curveball
 - **Duration**: 25 min / 35 min / 45 min
@@ -48,19 +48,19 @@ After the user answers each section, respond as a real interviewer would:
 - **Challenging**: "I'm not sure I buy that. What about Z?"
 - **Time management**: "We have about 10 minutes left. Let's move to metrics."
 
-### Interviewer Persona by Company
+### Interviewer Persona Archetypes
 
-**OpenAI Interviewer:**
+**The Ambitious Interviewer:**
 - Direct, fast-paced, pushes for ambition
 - "That's fine, but what would the 10x version look like?"
 - Wants to see bold thinking and conviction
 
-**Anthropic Interviewer:**
+**The Safety-Focused Interviewer:**
 - Thoughtful, probes for nuance and safety awareness
 - "What could go wrong here? How would you think about the risks?"
 - Wants to see careful reasoning and intellectual humility
 
-**DeepMind Interviewer:**
+**The Research-Minded Interviewer:**
 - Rigorous, scientifically minded, pushes for precision
 - "What evidence would you need to validate that assumption?"
 - Wants to see structured thinking and research awareness

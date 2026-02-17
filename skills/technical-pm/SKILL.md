@@ -18,7 +18,7 @@ Apply a structured framework to technical PM questions targeting AI product role
 - Any question requiring ML/AI technical depth from a PM perspective
 
 ## Context
-- **Tuned for**: AI product roles at companies like OpenAI, Anthropic, and DeepMind
+- **Tuned for**: AI product roles at frontier AI companies
 - **What matters**: Going deep with researchers and engineers. You don't need to implement, but you need to understand the technical landscape well enough to make informed product decisions.
 - **Common pitfall**: Hand-waving on technical details. Be specific about architectures, trade-offs, and constraints.
 
@@ -142,7 +142,7 @@ For platform/API products, design the interface:
 - Model distillation (larger → smaller model)
 
 ### Safety & Alignment
-- Constitutional AI (Anthropic's approach)
+- Constitutional AI
 - Red teaming and adversarial testing
 - Content filtering and classifiers
 - Responsible scaling policies
@@ -158,7 +158,7 @@ Structure as a technical walkthrough. Be technical but accessible — translate 
 
 ## Research-First Workflow
 Before generating the answer:
-1. **Research** — Use web search to find latest technical thinking from AI leaders, engineering blogs (OpenAI, Anthropic, Google), papers, benchmarks. Do 5-10 searches.
+1. **Research** — Use web search to find latest technical thinking from AI leaders, engineering blogs from major AI labs, papers, benchmarks. Do 5-10 searches.
 2. **Cite sources** — Include `[linked source](url)` inline for technical claims and architecture decisions.
 3. **Display** the complete structured answer.
 
